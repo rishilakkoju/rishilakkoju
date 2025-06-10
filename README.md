@@ -1,4 +1,4 @@
-<h2 align="left">hi im rishi 👋</h2>
+<h2 align="left">hello im rishi 👋</h2>
 
 - 🏫 currently beefing with cbse 
 - 📍 joining cs @ bmsce  
