@@ -1,10 +1,10 @@
-<h2 align="left">yo im rishi 👋</h2>
+<h2 align="left">hi im rishi 👋</h2>
 
-- 💻 cs is the goal  
+- 🏫 currently beefing with cbse 
 - 📍 joining cs @ bmsce  
-- 🧠 learning dsa + web dev slowly  
-- ⚙️ love building clean shit w code  
-- 🥱 late night debug > early morning lectures  
+- 🧠 learning dsa + web dev (slowly but surely) 
+- ⚙️ building codes that work (most of the time)  
+- 🥱 sleep: 404 not found
 
 <br/>
 
@@ -18,5 +18,5 @@
 
 ---
 
-### streak (i’m tryna be consistent 😭)
+### github streaks (i try to keep alive)
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
